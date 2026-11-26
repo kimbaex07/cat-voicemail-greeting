@@ -6,6 +6,16 @@
 
 One line: the funniest voicemail greeting a cat would record. `main.py` writes it to `entry.txt`.
 
+## The entry
+
+> Hi, it's Biscuit. I'm awake at 4am for no reason, so now you are too. Leave a message after the meow.
+
+101 characters (gate: 1–120).
+
+## Why it lands
+
+The greeting works because it is exactly how a cat behaves: awake at 4am for no reason, and determined to make it your problem too. Giving the cat a name, Biscuit, and a voicemail script turns a nightly annoyance into a character. The punchline, "after the meow", swaps the familiar "after the beep" for something only a cat would say.
+
 ## Run it
 
 ```sh
