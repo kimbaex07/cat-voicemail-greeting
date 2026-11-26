@@ -14,7 +14,7 @@ One line: the funniest voicemail greeting a cat would record. `main.py` writes i
 
 ## Why it lands
 
-The greeting works because it is exactly how a cat behaves: awake at 4am for no reason, and determined to make it your problem too. Giving the cat a name, Biscuit, and a voicemail script turns a nightly annoyance into a character. The punchline, "after the meow", swaps the familiar "after the beep" for something only a cat would say.
+The greeting works because it is exactly how a cat behaves: awake at 4am for no reason, and determined to make it your problem too. Giving the cat a name, Biscuit, and a voicemail script turns a nightly annoyance into a character. The punchline, "after the meow", swaps the familiar "after the beep" for something only a cat would say. The line even keeps the phone etiquette straight: it greets, it explains, it gives instructions — the only difference is that the caller's problem is now the cat's schedule.
 
 ## Run it
 
